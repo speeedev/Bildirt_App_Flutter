@@ -1,0 +1,2 @@
+final int RED_COLOR = 0xFFEA4335;
+final int BLACK_COLOR = 0xFF000000;
