@@ -1,16 +1,16 @@
-# bildirt
+# Flutter - Bildirt Example App
 
-A new Flutter project.
+Sample Flutter application for the API service of the web push service `bildirt.com`. This application includes examples of;
 
-## Getting Started
+- Sending notifications .
+- Fetching notification details.
 
-This project is a starting point for a Flutter application.
+### How to clone?
 
-A few resources to get you started if this is your first Flutter project:
+Write the code in terminal;
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+`git clone https://github.com/speeedev/flutter_bildirt_app.git`
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+### What should be done?
+
+Bildirt.com service requires an API key to work with the API and a Rest API key for the Authorization process. If you want to try the application in this direction, you must first fill in the relevant fields in the `lib/src/core/constants/bildirt-constants.dart` file.
