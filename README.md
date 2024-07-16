@@ -9,7 +9,7 @@ Sample Flutter application for the API service of the web push service `bildirt.
 
 Write the code in terminal;
 
-`git clone https://github.com/speeedev/flutter_bildirt_app.git`
+`git clone https://github.com/speeedev/Bildirt_App_Flutter.git`
 
 ### What should be done?
 
